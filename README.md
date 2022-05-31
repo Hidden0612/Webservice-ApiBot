@@ -1,9 +1,10 @@
 # Webservice-ApiBot
 
+#install
 ```sh
 pip install requests
 ```
-# Run ...
+# Run Code ...
 ```python
 python3 main.py
 ```
