@@ -1,11 +1,10 @@
 # Webservice-ApiBot
 
-#install
-```sh
-pip install requests
-```
-# Run Code ...
+Welcome to the web service of receiving api id and hash api
+
+# Install and Run Code ...
 ```python
+pip install requests
 python3 main.py
 ```
 
